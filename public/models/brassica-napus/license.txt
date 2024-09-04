@@ -1,0 +1,11 @@
+Model Information:
+* title:	セイヨウアブラナ Rapeseed, Brassica napus
+* source:	https://sketchfab.com/3d-models/rapeseed-brassica-napus-b5917d75d92b4108b0c2a2421bf25c13
+* author:	ffish.asia / floraZia.com (https://sketchfab.com/ffishAsia-and-floraZia)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "セイヨウアブラナ Rapeseed, Brassica napus" (https://sketchfab.com/3d-models/rapeseed-brassica-napus-b5917d75d92b4108b0c2a2421bf25c13) by ffish.asia / floraZia.com (https://sketchfab.com/ffishAsia-and-floraZia) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
